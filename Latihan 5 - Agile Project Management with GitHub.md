@@ -35,3 +35,17 @@ Langkah ini adalah untuk mewujudkan *project* baru di GitHub
 * Wujudkan kolum baru **QA/Review**, dan susun kolum tersebut di antara kolum **Backlogs** dan **Done** seperti contoh paparan berikut
 
 ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/2b986897-3d84-4f74-bc33-c54709e9ccea)
+
+* Ubah nama kolum **Todo** ke **Open** dari contoh paparan berikut
+
+![image](https://github.com/ktmb-sid/devops-training/assets/99636296/fb471b21-dbff-417d-8202-3c1a1ebde118)
+
+* Berikut adalah contoh paparan jika berjaya
+
+![image](https://github.com/ktmb-sid/devops-training/assets/99636296/a411b68d-672d-44c6-99b9-4d2445e77e9b)
+
+## Langkah 1.3: Wujudkan Task
+
+* Klik **+ Add item** dari kolum **Open** dan masukkan **Task** yang sesuai seperti contoh paparan berikut
+
+<img width=300 alt="image" src="https://github.com/ktmb-sid/devops-training/assets/99636296/0d5bf1af-5942-489c-bf09-4914d2c3d155">
