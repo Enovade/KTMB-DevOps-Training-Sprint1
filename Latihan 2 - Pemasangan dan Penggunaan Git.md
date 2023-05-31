@@ -68,6 +68,18 @@ Latihan ini adalah untuk konfigurasi ***Git client***
 mkdir mygit
 cd mygit
 ```
+
+### Langkah 3.3: Tetapan Git untuk GitHub
+
+* Taip kod berikut untuk membuat tetapan Git - projek GitHub, sila tukar maklumat yang sesuai
+
+```
+git config --global user.name "GitLab ID/Name"
+git config --global user.email "Email to access GitLab"
+git config --global --list
+
+```
+
 * Taip kod seperti berikut untuk wujudkan ***local repository*** dan muatnaik ke GitHub sebagai ***remote repository***
 
 ```
