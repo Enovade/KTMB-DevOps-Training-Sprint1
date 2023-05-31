@@ -22,7 +22,7 @@ Langkah ini adalah untuk mewujudkan *project* baru di GitHub
 
 ## Langkah 1.2: Tetapan Kanban
 
-* Klik ikon berikut ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/2f76b36b-6016-4ce3-b400-90d8cf0b9e4f) dan kemudian pilih **New column** ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/17686279-2e65-472d-ab3f-7d3dca41fb13) untuk wujudkan **kanban column** baru
+* Klik ikon berikut ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/2f76b36b-6016-4ce3-b400-90d8cf0b9e4f) dan kemudian pilih **New column** ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/17686279-2e65-472d-ab3f-7d3dca41fb13) untuk wujudkan kolum **kanban** baru
 
 * Di contoh paparan berikut masukkan **Backlogs** untuk **Label text**, **Tasks to be completed within sprint** untuk **Description** dan klik **Save** seperti contoh paparan berikut
 
@@ -32,3 +32,6 @@ Langkah ini adalah untuk mewujudkan *project* baru di GitHub
 
 ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/9c06d424-da92-40a8-a8e5-60ef299cc272)
 
+* Wujudkan kolum baru **QA/Review**, dan susun kolum tersebut di antara kolum **Backlogs** dan **Done** seperti contoh paparan berikut
+
+![image](https://github.com/ktmb-sid/devops-training/assets/99636296/2b986897-3d84-4f74-bc33-c54709e9ccea)
