@@ -14,6 +14,10 @@ Latihan ini adalah untuk pemasangan ***Git client***
 git --version
 ```
 
+### Langkah 1.2: Pemasangan *Visual Studio Code*
+* Untuk yang tiada **Visual Studi Code**
+* Muat turun VS Code dari https://code.visualstudio.com/download
+
 ## Langkah 2.0: Konfigurasi *Git client*
 Latihan ini adalah untuk konfigurasi ***Git client***
 
