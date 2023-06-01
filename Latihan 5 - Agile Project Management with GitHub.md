@@ -64,3 +64,7 @@ Langkah ini adalah untuk mewujudkan *project* baru di GitHub
 * Pilih **mygit** dari senarai **repositories**
 
 ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/38089100-9c84-4937-a66e-a7298393bd56)
+
+* Akses ke **mygit repository**, klik **issues** dan pastikan **task** yang diwujudkan di **project** tersenarai seperti contoh paparan berikut
+
+<img width="900" alt="image" src="https://github.com/ktmb-sid/devops-training/assets/99636296/d535c531-c913-4c6d-9958-95a7e95ebdab">
