@@ -65,11 +65,12 @@ Langkah ini adalah untuk mewujudkan *project* baru di GitHub
 
 * Klik **+ Add item** dari kolum **Open** dan masukkan **Task** yang sesuai seperti contoh paparan berikut
 
-<img width=300 alt="image" src="https://github.com/ktmb-sid/devops-training/assets/99636296/0d5bf1af-5942-489c-bf09-4914d2c3d155">
+<img width="1440" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/ac7002e3-63b6-43e6-881a-3ff8fda147d5">
 
 * Berikut adalah contoh paparan jika berjaya
 
-<img width=300 alt="image" src="https://github.com/ktmb-sid/devops-training/assets/99636296/3738d221-50b3-4894-8e0c-49ff54bf626c">
+<img width="361" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/4b59121f-29c4-408e-a3bd-8ddea3881195">
+
 
 ## Langkah 1.4: Tetapan Task
 
