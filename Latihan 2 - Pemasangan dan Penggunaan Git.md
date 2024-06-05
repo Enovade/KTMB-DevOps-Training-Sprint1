@@ -51,13 +51,14 @@ Latihan ini adalah untuk konfigurasi ***Git client***
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/99636296/162782125-ed142ef0-5e99-4f1d-a663-1c8f3556a4b8.png">
 
 
-*  Masukkan maklumat untuk ***Repository name***, ***Description***, pilih ***Private*** dan klik ***Create repository***, seperti paparan berikut:
+*  Masukkan **mygit** untuk ***Repository name***, **GitHub repo training** untuk ***Description***, pilih ***Private*** dan klik ***Create repository***, seperti paparan berikut:
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/99636296/162781563-4dda8502-74d0-4dd8-8705-cee1e81b5543.png">
+<img width="491" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/94753e74-5071-4fd1-be00-8795a31b90e9">
+
 
 * Berikut adalah contoh paparan ***repository*** yang baru diwujudkan
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/99636296/162782737-ebd51906-d696-40ac-bb09-af37ab2ffd99.png">
+<img width="828" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/6d58d9a9-1b00-4b7a-9212-26f285cf5c71">
 
 
 ### Langkah 3.2: Penggunaan *Git client*
