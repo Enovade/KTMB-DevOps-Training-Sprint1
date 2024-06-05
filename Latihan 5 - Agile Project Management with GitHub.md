@@ -74,10 +74,11 @@ Langkah ini adalah untuk mewujudkan *project* baru di GitHub
 
 ## Langkah 1.4: Tetapan Task
 
-* Di **task** yang baru di wujudkan, klik ikon berikut ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/b1058ab8-d58f-4e8b-ab29-8e5dd13b697e)
- dan pilih **Convert to issue** untuk buat tetapan
+* Di **task** yang baru di wujudkan, klik ikon berikut <img width="94" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/b9e04edf-d84b-4302-b000-fb00296d07d2">
 
-![image](https://github.com/ktmb-sid/devops-training/assets/99636296/7663bf4c-8a38-4954-b8e2-79c6acdc024b)
+* Pilih **Convert to issue** untuk buat tetapan
+
+<img width="213" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/413a3677-70e1-414f-b050-40317977643f">
 
 * Pilih **mygit** dari senarai **repositories**
 
