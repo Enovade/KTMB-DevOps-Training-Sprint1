@@ -6,43 +6,60 @@ Latihan ini adalah untuk menggunakan GitHub sebagai platform ***Agile Project Ma
 ## Langkah 1.1: Wujudkan Projek
 Langkah ini adalah untuk mewujudkan *project* baru di GitHub
 
-* Akses ke portal GitHub, klik ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/65d556d8-47a1-4eeb-9fc0-491a5b7f65f7) menu di atas 
+* Akses ke portal GitHub, klik <img width="112" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/a8f276e3-b4d1-4f58-9707-4a36bd95790f"> menu di atas 
 
 * Pilih **New project** dari senarai menu seperti contoh paparan berikut
 
-<img width=200 alt="image" src="https://github.com/ktmb-sid/devops-training/assets/99636296/b4fbf251-1841-43df-9407-5e7b998376bb">
+<img width="112" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/feb87f8d-dd21-4ba5-a6e2-f24fc961d9cb">
 
-* Di contoh paparan seperti berikut, pilih **Board** dari menu di kiri dan masukkan **Projek DevOps** di **Project name** dan klik **Create**
 
-<img width=700 alt="image" src="https://github.com/ktmb-sid/devops-training/assets/99636296/59b8aec1-4c12-4b3b-b131-cbb9ff88989a">
+* Di contoh paparan seperti berikut, pilih **Board** dari menu di kiri
+
+<img width="250" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/95ea52ef-3ffe-48aa-bede-6a5752dec4e5">
+
+
+* Masukkan **Projek DevOps** di **Project name** dan klik **Create**
+
+<img width="1187" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/1a5e1dd5-1420-43a6-9f34-b5484de77c27">
 
 * Berikut adalah contoh paparan jika berjaya
 
-<img width=700 alt="image" src="https://github.com/ktmb-sid/devops-training/assets/99636296/cd684e1e-f7a3-40ec-90dd-238b09ba29ae">
+<img width="1494" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/f978511e-cd42-47e1-b08e-5ab94c481ce7">
+
 
 ## Langkah 1.2: Tetapan Kanban
 
-* Klik ikon berikut ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/2f76b36b-6016-4ce3-b400-90d8cf0b9e4f) dan kemudian pilih **New column** ![image](https://github.com/ktmb-sid/devops-training/assets/99636296/17686279-2e65-472d-ab3f-7d3dca41fb13) untuk wujudkan kolum **kanban** baru
+* Klik ikon berikut <img width="279" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/468816a9-9d92-4eb7-b574-ac91e7261d45">
+* Dan kemudian pilih **New column** <img width="261" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/bc2efb1c-040c-41ac-a6e9-8efa8f68c358">
+ untuk wujudkan kolum **kanban** baru
 
 * Di contoh paparan berikut masukkan **Backlogs** untuk **Label text**, **Tasks to be completed within sprint** untuk **Description** dan klik **Save** seperti contoh paparan berikut
 
-![image](https://github.com/ktmb-sid/devops-training/assets/99636296/e1edf09b-f69d-40c5-8258-dd11eb707264)
+<img width="300" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/75d02812-fbae-4e22-b28a-629fd513b4c0">
 
 * Susun kolum **Backlogs** di antara kolum **Todo** dan **In Progress** seperti contoh paparan berikut
 
-![image](https://github.com/ktmb-sid/devops-training/assets/99636296/9c06d424-da92-40a8-a8e5-60ef299cc272)
+<img width="1347" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/3e2716d1-2145-4451-a510-f94d23f172b6">
 
-* Wujudkan kolum baru **QA/Review**, dan susun kolum tersebut di antara kolum **Backlogs** dan **Done** seperti contoh paparan berikut
+* Wujudkan kolum baru **QA/Review**, **Testing to be completed within sprint** untuk **Description** dan klik **Save** seperti contoh paparan berikut
 
-![image](https://github.com/ktmb-sid/devops-training/assets/99636296/2b986897-3d84-4f74-bc33-c54709e9ccea)
+<img width="393" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/c97d3fa8-a2a2-4c2f-afb0-4e1c767df4de">
 
-* Ubah nama kolum **Todo** ke **Open** dari contoh paparan berikut
+* Susun kolum tersebut di antara kolum **In Progress** dan **Done** seperti contoh paparan berikut
 
-![image](https://github.com/ktmb-sid/devops-training/assets/99636296/fb471b21-dbff-417d-8202-3c1a1ebde118)
+<img width="1440" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/05046e5d-e740-455f-b9bc-4b1c6c52136b">
+
+* Edit kolum **Todo** seperti contoh paparan berikut
+
+<img width="362" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/55128642-b119-4ccc-8839-40f0540e56f0">
+
+* Ubah nama kolum **Todo** ke **Open** dan klik **Save** dari contoh paparan berikut
+
+<img width="313" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/a844c226-6d87-4b9e-bb43-46bd306e0d4d">
 
 * Berikut adalah contoh paparan jika berjaya
 
-![image](https://github.com/ktmb-sid/devops-training/assets/99636296/a411b68d-672d-44c6-99b9-4d2445e77e9b)
+<img width="365" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/f03d8af7-9a27-4e29-88b7-c1193355ea03">
 
 ## Langkah 1.3: Wujudkan Task
 
