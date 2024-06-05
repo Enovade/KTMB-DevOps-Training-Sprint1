@@ -82,8 +82,22 @@ Langkah ini adalah untuk mewujudkan *project* baru di GitHub
 
 * Pilih **mygit** dari senarai **repositories**
 
-![image](https://github.com/ktmb-sid/devops-training/assets/99636296/38089100-9c84-4937-a66e-a7298393bd56)
+<img width="361" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/b6c069b4-c0d2-4a2f-97f2-0e3945325981">
+
+* Berikut adalah contoh paparan jika berjaya
+
+<img width="366" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/e2efdab2-1d58-4fe0-a8d8-9ceda083634b">
 
 * Akses ke **mygit repository**, klik **issues** dan pastikan **task** yang diwujudkan di **project** tersenarai seperti contoh paparan berikut
 
-<img width="900" alt="image" src="https://github.com/ktmb-sid/devops-training/assets/99636296/d535c531-c913-4c6d-9958-95a7e95ebdab">
+<img width="1367" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/b45dd39a-ffe3-4f75-ad73-ac49687c8f2c">
+
+## Langkah 1.5: Tetapan Label
+
+* Akses ke **mygit repository**, klik **issues**, klik <img width="128" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/e794547a-24a1-4cc7-87fa-a6f902a6b0e9">, berikut adalah contoh paparan jika berjaya
+
+<img width="1361" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/0da87af9-1947-4389-b86e-471531a71083">
+
+
+
+
