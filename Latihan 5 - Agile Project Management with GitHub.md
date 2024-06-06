@@ -98,6 +98,14 @@ Langkah ini adalah untuk mewujudkan *project* baru di GitHub
 
 <img width="1361" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/0da87af9-1947-4389-b86e-471531a71083">
 
+* Klik <img width="105" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/69ad8022-245b-4f41-9e2c-cb2689d31912">, masukkan **Frontend** untuk **Label name**, **Frontend Web Application** untuk **Description**, pilih warna yang sesuai untuk **Color** dan klik **Create label** seperti contoh paparan berikut
+
+<img width="1240" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/e9ce2318-2d10-4223-a237-ef7fc74de41e">
+
+* Berikut adalah contoh paparan jika berjaya
+
+<img width="1251" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/5a25d00e-c520-460f-835a-4ee3090bf1be">
+
 
 
 
