@@ -1,7 +1,7 @@
-# Agile Project Management menggunakan GitHub
+<img width="486" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/f18a4f29-66c4-47b2-81eb-6289276e641d"># Agile Project Management menggunakan GitHub
 Latihan ini adalah untuk menggunakan GitHub sebagai platform ***Agile Project Management***
 
-# Langkah 1.0: Projek GitLab
+# Langkah 1.0: Tetapan Projek
 
 ## Langkah 1.1: Wujudkan Projek
 Langkah ini adalah untuk mewujudkan *project* baru di GitHub
@@ -107,5 +107,41 @@ Langkah ini adalah untuk mewujudkan *project* baru di GitHub
 <img width="1251" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/5a25d00e-c520-460f-835a-4ee3090bf1be">
 
 
+# Langkah 2.0: Tetapan Template Projek
+Langkah ini adalah untuk mewujudkan **Project Template**.
 
+## Langkah 2.1: Wujudkan Repository
 
+* Wujudkan **repository** baru, masukkan **myrepo** untuk **Repository name**, **Repo Template** untuk **Description**, pilih **Private** dan klik **Create repository** seperti contoh paparan berikut
+
+<img width="486" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/25da5800-d8f2-4110-b32c-aab02a193238">
+
+* Berikut adalah contoh paparan jika berjaya
+
+<img width="1137" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/944d4f82-b02e-4c41-86d8-3402bf2dfb49">
+
+## Langkah 2.2: Tetapan Label
+
+* Akses ke **myrepo repository**, klik **issues**, klik <img width="128" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/e794547a-24a1-4cc7-87fa-a6f902a6b0e9">, berikut adalah contoh paparan jika berjaya
+
+<img width="1139" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/05cce140-83b0-477c-90ed-4fd4c736c4ac">
+
+* Klik <img width="105" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/69ad8022-245b-4f41-9e2c-cb2689d31912">, masukkan **Frontend** untuk **Label name**, **Frontend Web Application** untuk **Description**, pilih warna yang sesuai untuk **Color** dan klik **Create label** seperti contoh paparan berikut
+
+<img width="1240" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/e9ce2318-2d10-4223-a237-ef7fc74de41e">
+
+* Berikut adalah contoh paparan jika berjaya
+
+<img width="1251" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/5a25d00e-c520-460f-835a-4ee3090bf1be">
+
+* Klik <img width="105" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/69ad8022-245b-4f41-9e2c-cb2689d31912"> sekali lagi, masukkan **Backend** untuk **Label name**, **Backend API** untuk **Description**, pilih warna yang sesuai untuk **Color** dan klik **Create label** seperti contoh paparan berikut
+
+<img width="1112" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/ceaa532e-6fd8-4d73-b941-edf73ae5dc65">
+
+* Berikut adalah contoh paparan jika berjaya
+
+<img width="1106" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/1f51e881-2659-4ffd-a4f6-fcdc11d2335b">
+
+* Wujudkan **Label** berikut
+  
+  <img width="921" alt="image" src="https://github.com/Enovade/KTMB-DevOps-Training-Sprint1/assets/99636296/6a741d8c-8927-4921-b1d1-6901c8f26299">
