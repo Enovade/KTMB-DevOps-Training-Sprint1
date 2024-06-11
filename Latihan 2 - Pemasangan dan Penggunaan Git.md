@@ -76,7 +76,7 @@ cd mygit
 
 ```
 git config --global user.name "GitLab ID/Name"
-git config --global user.email "Email to access GitLab"
+git config --global user.email "Email to access GitHub"
 git config --global --list
 
 ```
