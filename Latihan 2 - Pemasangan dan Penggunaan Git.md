@@ -89,7 +89,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/cikgu-enovade/mygit.git
+git remote add origin https://github.com/hanafiah-enovade/mygit.git
 git push -u origin main
 ```
 
